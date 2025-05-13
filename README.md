@@ -1,6 +1,9 @@
-# Car and Cloud Simulation Project
+# Car and Cloud Simulation Project 🚗🌥️
 ## Project Overview
-This mini project simulates a cloud-based system for vehicle data transmission, analysis, and interaction. It integrates vehicle simulation with cloud computing for data handling and storage.
+This mini project simulates cloud and car. Here we have a menu where you can select what action that you want to do.Like move clouds left / right or move car.
+This is just for the basic understanding of CGV concepts.
+
+PS: Feel free to add any features or improve the project!
 
 ## Setup and Installation
 ### Prerequisites
