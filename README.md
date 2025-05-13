@@ -11,6 +11,6 @@ Visual Studio 2022
 
 ## Installation Steps
 ### Clone the repository:
-git clone https://github.com/yourusername/repository-name.git
+git clone https://github.com/its-anushz/Simple_CGV_Project
 
 
